@@ -27,16 +27,14 @@ def main():
         answers = []                                     # setting answers to an empty list (for now)
         for question in questions:
             try:
-                prompt = f"Q: {question}\nA:"
+                prompt = f"Q: {question}\nA:" #sets individual question to prompt variable
 
-                # calls the ollama api with the correct message parameter, streaming enabled
-                response = ollama.chat(model="phi3.5", 
-                                       messages=[{'role': 'user', 'content': prompt}],
+                response = ollama.chat(model="phi3.5",                                      # calls the ollama api with correct phi model, message paramter,
+                                       messages=[{'role': 'user', 'content': prompt}],      # setting role to users and content to the prompts, and streaming enabled
                                        stream=True)
 
-                # iterates over the streamed response
-                full_answer = ""
-                for chunk in response:  # streamed chunks of the response
+                full_answer = ""                                    # iterates over the streamed response
+                for chunk in response:                              # streamed chunks of the response
                     # accessesthe 'content' within 'message'
                     if 'message' in chunk and 'content' in chunk['message']:
                         full_answer += chunk['message']['content']
@@ -44,10 +42,10 @@ def main():
                 full_answer = full_answer.strip()  # cleans up the generated response
                 answers.append(full_answer)
 
-                print(f"Generated answer for question: '{question}' -> {full_answer}")
+                print(f"Generated answer for question: '{question}' -> {full_answer}") # outputs the response generated, mainly for debugging
             
             except Exception as e:
-                print(f"Error generating answer for question '{question}': {e}")
+                print(f"Error generating answer for question '{question}': {e}")       # throws error if answer couldnt be made and return empty string
                 answers.append("")
 
         try:
