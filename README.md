@@ -19,19 +19,17 @@ These dependencies are managed with Conda and listed in `requirements.yaml`.
 
 ### Step 1: Clone the Repository
 Clone the repository and navigate to its directory:
-```bash
 git clone <repository-url>
 cd <repository-directory>
 
-**### Step 2: Create and Activate Conda Environment**
+### Step 2: Create and Activate Conda Environment
 Create and activate the environment using the provided YAML file:
 
 bash
-Copy code
 conda env create -f requirements.yaml
 conda activate reviews_scraper
 
-**### Step 3: Prepare urls.txt**
+### Step 3: Prepare urls.txt
 In the project root, create a urls.txt file and list each game review URL on a new line.
 
 Running the Script
@@ -52,8 +50,6 @@ Error Handling
 The script handles HTTP and general exceptions, printing an error message if scraping fails.
 
 File Structure
-bash
-Copy code
 /project-directory
 ├── scrape.py          # main script
 ├── urls.txt           # list of URLs to scrape
