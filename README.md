@@ -1,64 +1,61 @@
-#Project1cs325
-This project demonstrates an AI-driven question-answering system using Python and the Ollama API with the phi3.5 model. 
-The system reads questions from a file, generates answers using the Ollama language model, and saves the answers in a separate file. 
-This project is built using Python 3.12.4, managed with a Conda environment, and includes a requirements.yaml file to simplify setup.
+# Game Review Scraper
 
-Project Structure ----------------------------------------------------------------------------------------------------------------------
-main.py: The Python script that runs the Q&A generation.
-questions.txt: A plain text file containing questions for the AI to answer.
-requirements.yaml: The Conda environment file with dependencies needed for the project.
+## Overview
+This Python script scrapes user reviews from game review pages listed in `urls.txt`, extracting details like author, outlet, score, date, summary, and review link. Each review page’s reviews are saved in individual text files within the `reviews` directory.
+It is designed to work with the website "opencritic.com" and its reviews section. 
 
-Prerequisites --------------------------------------------------------------------------------------------------------------------------
-Conda: Ensure Conda is installed on your system.
-Ollama API: You will need an Ollama API token to use the phi3.5 model. Visit Ollama to sign up for an account and obtain your token.
-Installation and Setup:
+## Purpose
+- Collect and organize game reviews for analysis.
+- Demonstrate web scraping with Python’s `requests` and `BeautifulSoup`.
+  
+## Requirements
+The script requires:
+- `requests`
+- `beautifulsoup4`
 
-1. Clone the Repository
-First, clone your repository or download the project files onto your machine.
-ex) do this in terminal
+These dependencies are managed with Conda and listed in `requirements.yaml`.
+
+## Setup and Installation
+
+### Step 1: Clone the Repository
+Clone the repository and navigate to its directory:
+```bash
 git clone <repository-url>
 cd <repository-directory>
 
-2. Create Conda Environment
-Create and activate the Conda environment using the provided requirements.yaml file.
-# Create the environment
+**### Step 2: Create and Activate Conda Environment**
+Create and activate the environment using the provided YAML file:
+
+bash
+Copy code
 conda env create -f requirements.yaml
+conda activate reviews_scraper
 
-# Activate the environment
-conda activate cs325
+**### Step 3: Prepare urls.txt**
+In the project root, create a urls.txt file and list each game review URL on a new line.
 
-This will set up Python 3.12.4 and install all necessary dependencies, including ollama, which is needed for interacting with the AI model.
+Running the Script
+Run the following command to start scraping:
+python scrape.py
 
-3. Install Ollama Package (Optional)
-If Ollama isn't installed, you can install it manually using:
-pip install ollama
+Each URL’s reviews will be saved in the reviews directory, formatted by page.
 
-Running the Software ----------------------------------------------------------------------------------------------------------------------
-1. Prepare the Questions: Ensure that your questions.txt file contains the questions you want 
-the AI to answer, each on a new line. The file should look like this:
+Code Breakdown
+scrape_review(url)
+Fetches Page: Sends a GET request and raises an error if the request fails.
+Parses Reviews: Finds all reviews and extracts details like author, outlet, score, date, summary, and link.
+Formats & Saves: Creates a reviews directory (if it doesn’t exist), formats each review, and saves them in a structured text file for each URL.
+main()
+Reads URLs from urls.txt.
+Calls scrape_review(url) on each URL in the list.
+Error Handling
+The script handles HTTP and general exceptions, printing an error message if scraping fails.
 
-What is your name?
-Who trained you?
-Am I your friend? please do not say no, I really like you.
-
-2. Run the Program: Run the Python script using the following command
-python main.py
-
-The script will:
-- Read the questions from questions.txt.
-- Use the Ollama API to generate answers with the phi3.5 model.
-- Write the answers into a file called answers.txt in the same directory.
-
-3. Check the Output: After running the script, the answers will be saved in answers.txt. The file will look something like:
-Q: What is your name?
-A: I am Phi. How can I assist you today?
-
-Q: Who trained you?
-A: I was developed and trained by a team of machine learning experts.
-
-Q: Am I your friend? please do not say no, I really like you.
-A: I appreciate our interactions, but as an AI, I don’t have personal relationships like friendships.
-
-Notes ---------------------------------------------------------------------------------------------------------------------------------------
-Make sure your questions.txt file is in the same directory as main.py to avoid file not found errors.
-The main.py script handles any API issues or errors that may occur during the answer generation process.
+File Structure
+bash
+Copy code
+/project-directory
+├── scrape.py          # main script
+├── urls.txt           # list of URLs to scrape
+├── requirements.yaml  # Conda environment file
+└── reviews/           # folder where reviews files are saved
