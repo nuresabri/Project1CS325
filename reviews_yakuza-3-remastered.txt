@@ -1,0 +1,112 @@
+review 1:
+author: 
+outlet: Game Revolution
+score: no score
+date: Aug 26, 2019
+summary: While Yakuza 3 definitely feels a bit dated from a gameplay perspective, its storytelling has stood the test of time.
+review link: https://www.gamerevolution.com/review/586781-yakuza-3-remastered-review-ps4
+
+review 2:
+author: 
+outlet: GamingTrend
+score: 90 / 100
+date: Feb 25, 2020
+summary: Yakuza 3, 4, and 5 have both the best and worst the series has to offer, which is saying something because those highs are so high and the lows really aren't that bad. All three games run exceptionally well, and 4 and 5 look like they belong on PS4 alongside Yakuza 0. 3 is a bit rough around the edges, but it's still a worthwhile entry in the series cannon.
+review link: https://gamingtrend.com/feature/reviews/like-a-dragon-yakuza-3-4-and-5-remastered-review/
+
+review 3:
+author: 
+outlet: Push Square
+score: 8 / 10
+date: Sep 18, 2019
+summary: There's no denying that Yakuza 3, even in its remastered form, is rough around the edges -- especially if you're coming off the back of Yakuza 6, Kiwami 2, or Judgment -- but this is still one of the series' better instalments, and for our money, the best of the PS3 Yakuza trilogy.
+review link: http://www.pushsquare.com/reviews/ps4/yakuza_3_remastered
+
+review 4:
+author: 
+outlet: SelectButton
+score: 8 / 10
+date: Mar 10, 2020
+summary: Yakuza 3 Remastered may not have received the Kiwami treatment, but still features one of the strongest and emotional narratives in the series. Some may not enjoy the focus to be on Kiryu's "softer" side by taking care of the kids at the orphanage. The mini-games are still great at cleansing the palette, with golfing and karaoke as the highlights, but overall they aren't as strong as previous titles. Shame that the narrative pacing doesn't quite deliver in the second half of the game.
+review link: http://www.selectbutton.com/reviews/yakuza-3-remastered-review
+
+review 5:
+author: 
+outlet: RPG Fan
+score: 72%
+date: Feb 12, 2020
+summary: Despite occasionally feeling dated, Yakuza 3 still offers a fun experience for fans of the series.
+review link: https://www.rpgfan.com/reviews/Yakuza_3_Remastered/
+
+review 6:
+author: 
+outlet: Spaziogames
+score: 7.9 / 10.0
+date: Oct 1, 2019
+summary: We were hoping that all the Yakuza PS3 games would get the shiny treatment reserved to the first two chapters, and weìre disappointed that this wouldn't be the case, but Yakuza 3 Remaster is a remaster done right.
+review link: https://www.spaziogames.it/yakuza-3-remaster-la-giovinezza-del-drago-di-dojima/
+
+review 7:
+author: 
+outlet: Video Chums
+score: no score
+date: Feb 20, 2020
+summary: Yakuza 3 lacks fun combat but it makes up for that with its variety.
+review link: https://videochums.com/review/the-yakuza-remastered-collection#yakuza-3-remastered
+
+review 8:
+author: 
+outlet: XGN.nl
+score: 7 / 10.0
+date: Sep 25, 2019
+summary: If you've played other entries in the series and just want to experience some cool lore about the world, Yakuza 3 Remaster is the game for you. It's a game all about fanservice, but also the one you can skip if you don't want to retreat familiar waters. If you're new to the series though, this one might not be for you.
+review link: https://www.xgn.nl/review/yakuza-3-remaster-review
+
+review 9:
+author: 
+outlet: Kinglink Reviews
+score: no score
+date: Feb 11, 2021
+summary: While the experience is part of a larger franchise, Yakuza 3's dated systems, rough combat, and story that loses site of the goal is hard a game to love.  It's required playing for fans of the series, and not an awful experience, but hardly what fans will expect after the previous three titles in the franchise.
+review link: https://kinglink-reviews.com/2021/02/11/yakuza-3-review-a-major-misstep-and-a-dated-experience/
+
+review 10:
+author: 
+outlet: Seafoam Gaming
+score: 7 / 10.0
+date: Jan 31, 2021
+summary: Yakuza 3 may be the most basic-feeling of the Yakuza games available on PS4, with awkward battle transitions and lighter sidequests, but that still isn’t a bad thing, as the core gameplay is still the same solid action as before.
+review link: https://seafoamgaming.com/2021/01/31/yakuza-3-ps4-review/
+
+review 11:
+author: 
+outlet: Chicas Gamers
+score: no score
+date: Feb 18, 2020
+summary: Yakuza 3, is the weakest of the 7 numerical games, but it's a great game, and the most important, fun. If you like the saga, be sure to give it a chance that includes extras that fans will appreciate.
+review link: https://www.chicasgamers.com/2020/02/analisis-review-yakuza-3-remaster-ps4.html
+
+review 12:
+author: 
+outlet: Gamer Escape
+score: 7 / 10
+date: Feb 29, 2020
+summary: Even with some elements from the original release that could have used a little sanding down, Yakuza 3 Remastered is still an worthwhile entry in the series to for longtime fans to experience again. It may not be my favorite sequel, but it’s still a competent and enjoyable one.
+review link: https://gamerescape.com/2020/02/29/review-yakuza-3-remastered/
+
+review 13:
+author: 
+outlet: Bazimag
+score: 7.8 / 10.0
+date: Feb 28, 2020
+summary: For newer fans this is the way to continue the Dragon of Dojima's story and for older fans this is the ultimate version of Yakuza 3 with all the removed content added and a better translation.
+review link: https://bazimag.com
+
+review 14:
+author: 
+outlet: PushStartPlay
+score: 8.5 / 10.0
+date: Oct 2, 2019
+summary: I can truly see what all the fuss was about with this cult classic as Yakuza 3 Remastered has earned a special place in my heart
+review link: https://www.push-start.co.uk/game-review/game-review-yakuza-3-remastered/
+

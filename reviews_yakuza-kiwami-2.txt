@@ -1,0 +1,161 @@
+review 1:
+author: 
+outlet: PC Gamer
+score: 88 / 100
+date: May 2, 2019
+summary: A triumphant remake of Yakuza 2, full of fun diversions and featuring one of the series' best stories.
+review link: https://www.pcgamer.com/yakuza-kiwami-2-review/
+
+review 2:
+author: 
+outlet: Eurogamer
+score: No Recommendation / Blank
+date: Aug 23, 2018
+summary: Yakuza continues its good run with a fine - if a little lumpy - retread of a modern classic.
+review link: https://www.eurogamer.net/articles/2018-08-23-yakuza-kiwami-2-review-a-stylish-and-fun-if-formulaic-remake
+
+review 3:
+author: 
+outlet: IGN
+score: 8 / 10.0
+date: Aug 23, 2018
+summary: Despite the fact that the made-for-PlayStation 4 Yakuza 6 was only released a few short months ago, Yakuza Kiwami 2 is the best and most fully formed Yakuza game of 2018 even though it's a remake of a game that's now two console generations old. Its storyline is gripping, its weapons-heavy fighting system accommodates no shortage of spectacle, and it serves up plenty of enjoyable side activities – both mini and macro – to divert to or return for after the story wraps. Yakuza 0 may still be the high watermark for the series on the PS4, but Yakuza Kiwami 2 isn't too far behind.
+review link: http://www.ign.com/articles/2018/08/23/yakuza-kiwami-2-review
+
+review 4:
+author: 
+outlet: Metro GameCentral
+score: 7 / 10
+date: May 6, 2019
+summary: An excellent remake that manages to overcome the flaws of the original and offer a glimpse at what a next gen Yakuza game might look like.
+review link: https://metro.co.uk/2019/05/06/yakuza-kiwami-2-pc-review-extreme-makeover-9417290/
+
+review 5:
+author: 
+outlet: Easy Allies
+score: 8.5 / 10.0
+date: Sep 15, 2018
+summary: no summary
+review link: no link
+
+review 6:
+author: 
+outlet: Game Informer
+score: 9 / 10.0
+date: Aug 23, 2018
+summary: Kiwami 2 is more than a great remake: it's the best this strange, wonderful series has to offer and it shouldn't be missed by fans of action or RPG titles
+review link: https://www.gameinformer.com/review/yakuza-kiwami-2/leader-of-the-pack
+
+review 7:
+author: 
+outlet: GameSpot
+score: 8 / 10
+date: Aug 27, 2018
+summary: Old and new components of the Yakuza franchise combine to create one of the series' strongest entries.
+review link: https://www.gamespot.com/reviews/yakuza-kiwami-2-review-double-dragon/1900-6416963/
+
+review 8:
+author: 
+outlet: Polygon
+score: no score
+date: Aug 28, 2018
+summary: It leverages a state-of-the-art engine to present a story that holds up, with gameplay refined over a dozen years. It makes its debut on a console that makes it easy to share the moments that can really only come from this series.
+Let's raise a glass of Yamazaki whisky to the new world.
+review link: https://www.polygon.com/2018/8/29/17786580/yakuza-kiwami-2-review
+
+review 9:
+author: 
+outlet: USgamer
+score: no score
+date: Aug 27, 2018
+summary: Yakuza Kiwami 2 won't make those who haven't clicked with the series yet a believer, but for fans, it's well worth the journey if you don't mind retreading some familiar ground. While the slow middle and Majima side campaign are disappointing, Kiwami 2 is still another solid entry in the Yakuza canon.
+review link: http://www.usgamer.net/articles/yakuza-kiwami-2-review-08-27-18
+
+review 10:
+author: 
+outlet: Game Revolution
+score: no score
+date: Aug 23, 2018
+summary: If you haven't played Yakuza 0 and Yakuza Kiwami, you can definitely still enjoy Kiwami 2, but instead of worrying about that, just go get those games too, and get ready to have your mind blown by how consistently good a video game series can be.
+review link: https://www.gamerevolution.com/review/421339-yakuza-kiwami-2-review-a-tale-of-two-dragons
+
+review 11:
+author: 
+outlet: Destructoid
+score: 7.5 / 10.0
+date: Aug 23, 2018
+summary: For my money, it is the best way to experience this particular story and improves enough of the game to make for a great time sink. Maybe certain aspects could have been tweaked to be more faithful to the source material, but the worst thing that could happen is you end up wanting to play the original to see the changes firsthand. That isn't such a terrible outcome.
+review link: https://www.destructoid.com/review-yakuza-kiwami-2-519160.phtml
+
+review 12:
+author: 
+outlet: TheSixthAxis
+score: 9 / 10
+date: Aug 23, 2018
+summary: Since the release of Yakuza Kiwami, I've been dreaming of a remaster of Yakuza 2 to give what is easily my favourite game in the franchise the same level of modern day polish. Sega has delivered on that dream with Yakuza Kiwami 2, creating an incredible package that takes the best game in an incredible series, and makes it even better. You were already doing a disservice to yourself before by not playing Yakuza 2, but now there are no excuses. This is a must play.
+review link: http://www.thesixthaxis.com/2018/08/23/yakuza-kiwami-2-review/
+
+review 13:
+author: 
+outlet: Hobby Consolas
+score: 91 / 100
+date: Aug 23, 2018
+summary: Yakuza Kiwami 2 is a great adventure, full of details, minigames and wonderful characters, and it gets a new Goro Majima campaign for this PS4 remaster. Combat system is not as deep as in the first Kiwami, but still, it is one of the best entries in the franchise.
+review link: https://www.hobbyconsolas.com/reviews/analisis-yakuza-kiwami-2-remaster-playstation-4-286785
+
+review 14:
+author: 
+outlet: Shacknews
+score: 9 / 10
+date: Aug 22, 2018
+summary: I vastly enjoyed every second of my time exploring the world through his eyes, whether I was helping a dominatrix stop dealing with pushy clients or handing a guy some new underwear from a convenience store over the top of a bathroom stall. This is the definitive way to experience Yakuza 2, and an excellent showcase for what the series is capable of. Seriously, you've just got to get into it now. I'm tired of repeating myself.
+review link: https://www.shacknews.com/article/106863/yakuza-kiwami-2-review-heating-up
+
+review 15:
+author: 
+outlet: Ars Technica
+score: no score
+date: Aug 28, 2018
+summary: Even a remake of perhaps the weakest Yakuza game in the series is hands-down a fantastic trip worth taking. Only skip it if you haven't finished Yakuza 0 and Kiwami yet.
+review link: https://arstechnica.com/gaming/2018/08/yakuza-kiwami-2-review-an-ok-chapter-in-one-of-gamings-great-sagas/
+
+review 16:
+author: 
+outlet: IGN Italy
+score: 9 / 10.0
+date: Aug 23, 2018
+summary: Yakuza Kiwami 2 continues to stick to the franchise's strengths, making Kiryu's world deeper.
+review link: https://it.ign.com/yakuza-kiwami-2/143894/review/yakuza-kiwami-2-la-recensione
+
+review 17:
+author: 
+outlet: Hardcore Gamer
+score: 4.5 / 5.0
+date: Aug 25, 2018
+summary: Yakuza Kiwami 2 is the best remake yet for the series and the absolute best way to enjoy the franchise's second entry.
+review link: https://www.hardcoregamer.com/?post_type=post&p=309962
+
+review 18:
+author: 
+outlet: God is a Geek
+score: 9 / 10.0
+date: Aug 23, 2018
+summary: If you're looking for big changes you won't find an abundance of them, instead it's a refined experience in every way, with tighter controls and and the finest visuals to date within the Yakuza franchise.
+review link: https://www.godisageek.com/reviews/yakuza-kiwami-2-review/
+
+review 19:
+author: 
+outlet: Attack of the Fanboy
+score: no score
+date: Aug 23, 2018
+summary: With its intricately woven story and memorable characters, Yakuza 2 was already viewed as one of the best in the series. And now with improved graphics and a refined Dragon Engine, it's remake, Yakuza Kiwami 2, could be the best of them all.
+review link: https://attackofthefanboy.com/reviews/yakuza-kiwami-2-review/
+
+review 20:
+author: 
+outlet: Rock, Paper, Shotgun
+score: no score
+date: May 10, 2019
+summary: If you don’t mind button bashing through some brawls, just to see more of these good fellas solving bad problems with their strong fists and stern words, Yakuza Kiwami 2 is ready, once again, to get ridiculous.
+review link: https://www.rockpapershotgun.com/2019/05/10/yakuza-kiwami-2-review/
+

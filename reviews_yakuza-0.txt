@@ -1,0 +1,160 @@
+review 1:
+author: 
+outlet: PC Gamer
+score: 90 / 100
+date: Jul 26, 2018
+summary: Comfortably the best, funniest and most heartwarming game about a desperate battle over real estate, now available on PC as a good port at a generous price.
+review link: https://www.pcgamer.com/yakuza-0-review/
+
+review 2:
+author: 
+outlet: Eurogamer
+score: Recommended
+date: Jan 20, 2017
+summary: Bruising, bonkers and frequently brilliant, Yakuza 0 is Sega's cult favourite at its very best.
+review link: http://www.eurogamer.net/articles/2017-01-19-yakuza-0-review
+
+review 3:
+author: 
+outlet: IGN
+score: 8.5 / 10.0
+date: Jan 19, 2017
+summary: Yakuza 0 is another sprawling entry in the open-world series, packed with an extraordinary amount of things to do and centred around a genuinely compelling crime story. Since it’s a prequel, it’s also unburdened by the series’ increasingly intricate backstory and thus far more approachable for newcomers than the last few Yakuza games. While its melee combat may lag slightly behind modern genre standards, Yakuza 0 still hits far more than it misses and is a big, bold and bruising tour through the Japanese underworld.
+review link: http://www.ign.com/articles/2017/01/19/yakuza-0-review
+
+review 4:
+author: 
+outlet: Easy Allies
+score: no score
+date: Jan 19, 2017
+summary: no summary
+review link: no link
+
+review 5:
+author: 
+outlet: Metro GameCentral
+score: 8 / 10
+date: Jan 20, 2017
+summary: The most entertaining Yakuza game so far, that’s part gangster epic and part surreal Japanese nightlife simulator.
+review link: http://metro.co.uk/2017/01/20/yakuza-0-review-the-godfather-of-japan-6392762/
+
+review 6:
+author: 
+outlet: GamesRadar+
+score: no score
+date: Jan 19, 2017
+summary: While a bit disappointing on the mini-game front, Yakuza 0 remains as strange and charming as ever, with the best story and combat the series has seen in years.
+review link: http://www.gamesradar.com/yakuza-0-review/
+
+review 7:
+author: 
+outlet: Game Informer
+score: 9.3 / 10.0
+date: Jan 19, 2017
+summary: Don’t be intimidated by the series’ long history – this is an accessible starting point that’s likely to convert you into being a full-fledged fan
+review link: http://www.gameinformer.com/games/yakuza_0/b/playstation4/archive/2017/01/19/everlasting-mob-stopper.aspx
+
+review 8:
+author: 
+outlet: Polygon
+score: 8 / 10.0
+date: Jan 19, 2017
+summary: Yakuza 0 has heart, despite some significant shortcomings
+review link: http://www.polygon.com/2017/1/19/14193836/yakuza-0-review-ps4-playstation-4-sega-atlus
+
+review 9:
+author: 
+outlet: GameSpot
+score: 8 / 10
+date: Jan 19, 2017
+summary: Yakuza Zero's humorous world is packed goofy quests and minigames, but the story cuts through it with powerful characters and high-stakes drama.
+review link: http://www.gamespot.com/reviews/yakuza-0-review/1900-6416602/
+
+review 10:
+author: 
+outlet: Kotaku
+score: no score
+date: Jan 24, 2017
+summary: Yakuza 0 is the closest thing video games have to a prime-time soap opera.
+review link: http://kotaku.com/yakuza-0-the-kotaku-review-1791493186
+
+review 11:
+author: 
+outlet: USgamer
+score: no score
+date: Jan 20, 2017
+summary: There's a lot to love about Yakuza 0, but it's going to take me a while to work my way to the story's finale. The endless brawling turns the whole thing into a real chore, I'm afraid. But I will say that as tired as I've already become of the constant beatdowns, the story and general self-confidence of the game makes me want to power through.
+review link: http://www.usgamer.net/articles/yakuza-0-a-fascinating-game-completely-at-odds-with-itself
+
+review 12:
+author: 
+outlet: Game Revolution
+score: no score
+date: Jul 27, 2018
+summary: This series is better than it has any business being.
+review link: http://www.gamerevolution.com/review/411363-yakuza-0-pc-review-mad-dog-2020
+
+review 13:
+author: 
+outlet: Destructoid
+score: 9 / 10.0
+date: Jan 19, 2017
+summary: It features all of the best aspects of the series with very little of the negatives, making for a game that I’ll probably still be digging through by the time Kiwami releases over here.
+review link: https://www.destructoid.com/review-yakuza-0-412494.phtml
+
+review 14:
+author: 
+outlet: Areajugones
+score: 8.5 / 10.0
+date: Aug 2, 2018
+summary: A remarkable debut in all of its different aspects that will certainly be thanked for among those who are yet to test the franchise. It is a perfect conversion to PC that has undoubtedly earned SEGA some praise, although the lack of spanish language is still an issue.
+review link: https://areajugones.sport.es/analisis-yakuza-0-steam-edition/
+
+review 15:
+author: 
+outlet: TheSixthAxis
+score: 8 / 10
+date: Jan 19, 2017
+summary: With the release of Yakuza 0, a smash hit franchise in Japan has its biggest chance yet of becoming a smash hit overseas, too. Yakuza 0 is not only an achievement in video game storytelling, but it’s the best this franchise has ever felt, looked, and played.
+review link: http://www.thesixthaxis.com/2017/01/19/yakuza-0-review/
+
+review 16:
+author: 
+outlet: Shacknews
+score: 9 / 10
+date: Jul 26, 2018
+summary: No matter if you've played the rest of the Yakuza series and know it like the back of your hand, or you're just now getting started as a fledgling fan, Yakuza 0 is a must-play.
+review link: http://www.shacknews.com/article/106360/yakuza-0-review-birth-of-a-dragon
+
+review 17:
+author: 
+outlet: IGN Spain
+score: 8 / 10.0
+date: Jan 19, 2017
+summary: Yakuza 0 is the perfect game for those who never played any Yakuza to enter in this epileptic and violent  world of madness made in Takashi Miike's best dreams.
+review link: http://es.ign.com/yakuza-zero-ps4/113613/review/yakuza-0-analisis-para-ps4
+
+review 18:
+author: 
+outlet: IGN Italy
+score: 9 / 10.0
+date: Jan 19, 2017
+summary: The second best Yakuza game ever after Yakuza 3 and a breathtaking mix of mini-games, fighting, mob plots and Japanese crazyness.
+review link: http://it.ign.com/yakuza-0-ps4/120727/review/yakuza-0-la-recensione
+
+review 19:
+author: 
+outlet: Ars Technica
+score: no score
+date: Jan 19, 2017
+summary: Yakuza 0 is a fine, goofy, and bombastic entry point for anyone who has wanted to see just what the hell is up with these darn Yakuza games. Buy it.
+review link: http://arstechnica.com/gaming/2017/01/yakuza-0-review-all-aboard-the-crazy-train/
+
+review 20:
+author: 
+outlet: Hardcore Gamer
+score: 4.5 / 5.0
+date: Jan 19, 2017
+summary: Yakuza fans are in for a massive treat with Yakuza 0.
+review link: http://www.hardcoregamer.com/?post_type=post&p=243706
+

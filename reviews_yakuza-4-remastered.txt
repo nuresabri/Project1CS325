@@ -1,0 +1,96 @@
+review 1:
+author: 
+outlet: Game Revolution
+score: no score
+date: Nov 4, 2019
+summary: While its immediate sequel, Yakuza 5, did many of these things in a more impressive fashion, Yakuza 4 laid the important groundwork to make it all possible.
+review link: https://www.gamerevolution.com/review/612776-yakuza-4-remastered-review
+
+review 2:
+author: 
+outlet: Push Square
+score: 7 / 10
+date: Nov 6, 2019
+summary: When it comes to action, Yakuza 4's a blast. Each playable character has their own unique fighting style, with Akiyama's lightning fast kicks and Saejima's brute strength being particularly satisfying.
+review link: http://www.pushsquare.com/reviews/ps4/yakuza_4_remastered
+
+review 3:
+author: 
+outlet: SelectButton
+score: 8 / 10
+date: Mar 28, 2020
+summary: Yakuza 4 shines, even if Kiryu plays less of a role than he is used to. The additional characters provide a unique spin on the traditional Yakuza formula, and more importantly, I enjoyed playing all of them. I'd say that Kiryu is the weakest part about the game, as he feels shoehorned into the game just because he is synonymous with the franchise.
+review link: http://www.selectbutton.com/reviews/yakuza-4-remastered-review
+
+review 4:
+author: 
+outlet: RPG Fan
+score: 74%
+date: Feb 21, 2020
+summary: With Yakuza 4, we start to see the modern vision of the series take shape, while also serving as an enjoyable entry on its own!
+review link: https://www.rpgfan.com/reviews/Yakuza_4_Remastered/
+
+review 5:
+author: 
+outlet: Spaziogames
+score: 7.9 / 10.0
+date: Dec 9, 2019
+summary: Continuing down the path carved by Yakuza 3 Remastered, this fourth installment in the Yakuza franchise doesn't reinvent the wheel, but offers 25 plus hours of fun for all the fans of the series, even if with a barebone remaster.
+review link: https://www.spaziogames.it/yakuza-4-remastered-la-mafia-uccide-anche-a-natale-recensione/
+
+review 6:
+author: 
+outlet: Video Chums
+score: no score
+date: Feb 20, 2020
+summary: Overall, it's a solid game and feels like an expanded natural evolution of Yakuza 3.
+review link: https://videochums.com/review/the-yakuza-remastered-collection#yakuza-4-remastered
+
+review 7:
+author: 
+outlet: Seafoam Gaming
+score: 8 / 10.0
+date: Feb 26, 2021
+summary: It may still feel a bit like Deja Vu coming from 3, but this is a must-play action game nevertheless, and would set the stage for the crown jewel of the collection. If you have to pick one game from the 3 to buy individually, this still isn’t the one of choice, but it’s pretty damn close, and immensely enjoyable nevertheless.
+review link: https://seafoamgaming.com/2021/02/26/yakuza-4-ps4-review/
+
+review 8:
+author: 
+outlet: Chicas Gamers
+score: no score
+date: Feb 17, 2020
+summary: Yakuza 4 represents a new jump in quality in the saga. Much more content, more characters to love and lots of fun and fighting.
+review link: https://www.chicasgamers.com/2020/02/analisis-review-yakuza-4-remaster-ps4.html
+
+review 9:
+author: 
+outlet: PushStartPlay
+score: 8.4 / 10.0
+date: Jan 3, 2020
+summary: Yakuza 4 might not be my favourite in the series so far, but that doesn’t stop it from being an incredibly immersive and fun experience from start to finish.
+review link: https://www.push-start.co.uk/game-review/game-review-yakuza-4-remastered/
+
+review 10:
+author: 
+outlet: Gamer Escape
+score: 8 / 10
+date: Mar 13, 2020
+summary: While Yakuza 4 Remastered doesn’t offer much in the way of quality of life updates or any substantial presentation improvements, the entire package is still solid. It knows what it is and what it wants to do, and is ultimately an improvement over its direct predecessor in a number of ways.
+review link: https://gamerescape.com/2020/03/13/review-yakuza-4-remastered/
+
+review 11:
+author: 
+outlet: WayTooManyGames
+score: 8 / 10.0
+date: Mar 4, 2020
+summary: I was worried that Yakuza 4 wouldn’t win me over as Kiryu would have to share his screentime with three other newcomers, but that concern disappeared pretty quickly. I should never doubt those screenwriters, as they have managed to come up not only with brand new characters that were extremely likable, but they have also managed to intertwine their stories in a masterful, quasi-Hollywood way.
+review link: https://waytoomany.games/2020/03/04/review-yakuza-4-ps4/
+
+review 12:
+author: 
+outlet: Bazimag
+score: 8.6 / 10.0
+date: Mar 4, 2020
+summary: Yakuza 4 is such a well made video game that even after 10 years it still feels fun and entertaining. It has improved on the all aspects of the last entry and introduces some truly great protagonists.
+review link: https://bazimag.com/review/12235-yakuza-4-remasterd-review
+

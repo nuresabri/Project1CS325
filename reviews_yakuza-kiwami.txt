@@ -1,0 +1,160 @@
+review 1:
+author: 
+outlet: TheGamer
+score: no score
+date: Oct 24, 2024
+summary: Yakuza Kiwami remains one of the best stories that RGG has ever told, and showing its age a smidge doesn’t diminish that. Showcasing Kiwami on another platform to welcome new fans into the fold can only be a good thing, and it’s impressive just how well it runs on Switch. Most importantly, now Majima Everywhere can really be everywhere as he just became portable.
+review link: https://www.thegamer.com/yakuza-kiwami-nintendo-switch-review/
+
+review 2:
+author: 
+outlet: Nintendo Life
+score: 6 / 10
+date: Oct 24, 2024
+summary: No matter how significant the Yakuza/Like a Dragon series might have become, this first instalment is a mixed bag. At times Yakuza Kiwami is full of life and ambition. At other times it's as frustrating and seems too willing to draw things out in a slightly over-indulgent way. Experimenting with the battle system is satisfying for as long as the game gives you space to do it. But the game's pace-killing negatives, the difficulty spikes and the quickly diminishing returns of wandering the Tokyo streets, marred by random battles and fetching items, hold it back from being an easy recommendation. You may well enjoy yourself during your playthrough, but we'd bet a few thousand yen that some of the less-streamlined elements will test your patience.
+review link: https://www.nintendolife.com/reviews/switch-eshop/yakuza-kiwami
+
+review 3:
+author: 
+outlet: God is a Geek
+score: 8 / 10.0
+date: Oct 24, 2024
+summary: Yakuza Kiwami on Switch is a good port of a great game, and while it shows its age in certain areas, it's still a lot of fun to play.
+review link: https://www.godisageek.com/reviews/yakuza-kiwami-switch-review/
+
+review 4:
+author: 
+outlet: CGMagazine
+score: 6 / 10.0
+date: Oct 24, 2024
+summary: Yakuza Kiwami is a serviceable port of a solid remake that finally gives Nintendo audiences a taste of the Japanese beat-em-up favourite.
+review link: https://www.cgmagonline.com/review/game/yakuza-kiwami-nintendo-switch/
+
+review 5:
+author: 
+outlet: Final Weapon
+score: no score
+date: Oct 24, 2024
+summary: Yakuza Kiwami comes to Nintendo Switch with good, solid port that faithfully brings the lights and sounds of Kamurocho onto a handheld. Despite some flaws in performance, Yakuza Kiwami on Switch retains its smooth and fun combat system, rich and compelling story, and all the content of existing console and PC versions.
+review link: https://finalweapon.net/2024/10/24/yakuza-kiwami-switch-review-extremely-good-portable-action/
+
+review 6:
+author: 
+outlet: Siliconera
+score: 8 / 10.0
+date: Oct 24, 2024
+summary: The Switch version of Yakuza Kiwami might not be the absolutely ideal way to play the first game in the Like a Dragon series, but it runs quite well on the system and remains an absolute delight.
+review link: https://www.siliconera.com/review-yakuza-kiwami-is-so-much-fun-on-the-switch/
+
+review 7:
+author: 
+outlet: Hey Poor Player
+score: 2 / 5.0
+date: Oct 24, 2024
+summary: I’ve ended a lot of reviews of Switch ports over the years saying some variation of this may not be the best version of the game, but it’s worth your time if the Switch is your preferred platform. That’s not the case for Yakuza Kiwami. This version simply isn’t worth your time and it doesn’t matter whether you have another way to play the game or not. It isn’t just inferior; it feels terrible to play. Hopefully, the team behind this port will keep working on improving performance because there’s still a solid title underneath this version’s issues. Still, there are too many great experiences on the platform to spend your time on a game that feels like this.
+review link: https://www.heypoorplayer.com/2024/10/24/yakuza-kiwami-review-switch/
+
+review 8:
+author: 
+outlet: Pizza Fria
+score: 8.5 / 10.0
+date: Oct 24, 2024
+summary: Yakuza Kiwami continues to be a great game. I had as much fun as I did the first time I played it, and I really think it's a good choice for both those who have never played it and those who want a good distraction to pass the time.
+review link: https://pizzafria.ig.com.br/analises/yakuza-kiwami-review/
+
+review 9:
+author: 
+outlet: Eurogamer
+score: No Recommendation / Blank
+date: Aug 28, 2017
+summary: An entertaining but slightly unbalanced remake whose biggest draw is a regular distraction from one of the series' best stories.
+review link: http://www.eurogamer.net/articles/2017-08-28-yakuza-kiwami-review
+
+review 10:
+author: 
+outlet: IGN
+score: 7.9 / 10.0
+date: Aug 21, 2017
+summary: Yakuza Kiwami makes great strides in updating the classic original Yakuza game to modern standards. But while it adds better combat, bizarrely charming side quests, and a gorgeous graphical revamp, it also ignores some of the original's biggest problems in pacing and storytelling. And because of its relatively short length, Yakuza Kiwami's fun trip through the tangled web of Japan's criminal underground feels like a prelude to something bigger and better to come.
+review link: http://www.ign.com/articles/2017/08/21/yakuza-kiwami-review
+
+review 11:
+author: 
+outlet: PC Gamer
+score: 74 / 100
+date: Feb 11, 2019
+summary: Suffers in comparison to Yakuza 0, but is still a compelling drama and an important part of the series as a whole.
+review link: https://www.pcgamer.com/yakuza-kiwami-review/
+
+review 12:
+author: 
+outlet: Easy Allies
+score: no score
+date: Aug 24, 2017
+summary: no summary
+review link: no link
+
+review 13:
+author: 
+outlet: Metro GameCentral
+score: 7 / 10
+date: Feb 11, 2019
+summary: The original Yakuza has been remade into a sequel to its own prequel, but although it's perfectly competent it feels outdated compared to the newer entries.
+review link: https://metro.co.uk/2019/02/11/yakuza-kiwami-pc-review-original-gangster-8527797/
+
+review 14:
+author: 
+outlet: Game Informer
+score: 8.5 / 10.0
+date: Aug 21, 2017
+summary: Yakuza Kiwami is a sprawling adventure, but – as enhanced as it is – it's clearly a foundational entry in the series
+review link: http://www.gameinformer.com/games/yakuza_kiwami/b/playstation4/archive/2017/08/21/yakuza-kiwami-review-a-blast-from-the-past.aspx
+
+review 15:
+author: 
+outlet: GameSpot
+score: 8 / 10
+date: Aug 21, 2017
+summary: Yakuza Kiwami picks up where Yakuza Zero left off, upholding its dramatic storytelling, offbeat humor, and flashy yet frustrating combat.
+review link: https://www.gamespot.com/reviews/yakuza-kiwami-review/1900-6416738/
+
+review 16:
+author: 
+outlet: Polygon
+score: 7 / 10.0
+date: Aug 21, 2017
+summary: Yakuza Kiwami makes it clear just how far the series has come, and just how far it still has to go. It's keenly designed to bring newly minted Yakuza fans more firmly into the fold by providing all the contemporary comforts they might expect, while also giving longtime fans more to chew on than a shot-for-shot remake ever would have. It's a patchwork, for better and for worse, and as much as I enjoyed my time with it, there's no denying that some of those patches are looking more tired than others.
+review link: https://www.polygon.com/2017/8/21/16177600/yakuza-kiwami-ps4-playstation-4-remake-review
+
+review 17:
+author: 
+outlet: Kotaku
+score: no score
+date: Feb 19, 2019
+summary: Kiwami has a much smaller scope than something like Yakuza 0 but I think that also gives it a lot of focus. While the series is now famous for side quests and random activities, Kiwami has a focus and drive to it that I really enjoyed by the end.
+review link: https://kotaku.com/yakuza-kiwami-the-kotaku-review-1798372092
+
+review 18:
+author: 
+outlet: USgamer
+score: no score
+date: Aug 21, 2017
+summary: Sega remastered the original Yakuza in high style. Using an updated engine, the team behind the series added new character models, re-recorded voice acting, and an expanded city of Kamurocho, all in 1080p at 60 fps. Yakuza Kiwami bleeds love for the original game. If you haven't played any Yakuza, this is the release to get. If you have, this is a great remaster of a former cult-favorite. It's not as full-featured as current Yakuza release, but it's still a great time.
+review link: http://www.usgamer.net/articles/yakuza-kiwami-review
+
+review 19:
+author: 
+outlet: Game Revolution
+score: no score
+date: Aug 21, 2017
+summary: I enjoyed my time with Kiwami despite its flaws. The story kept me up for hours on end, the sub-stories were interesting with hilarious characters and great writing, and the combat felt incredible to master by the end. It can't be ignored that they had a chance to massively improve the story, but chose to just try and maintain the status quo, but the package is fantastic nonetheless
+review link: http://www.gamerevolution.com/review/345655-yakuza-kiwami-review-a-return-to-great-beginnings
+
+review 20:
+author: 
+outlet: Destructoid
+score: 8 / 10.0
+date: Aug 21, 2017
+summary: Really, you can't go wrong with Kiwami. I would have liked it if every aspect of the game had been fully redone, but we don't see remakes like this come along often. I can deal with a few stumbling blocks when the core quality of what makes Yakuza so unique and engaging remains untouched. At least now more people can have a chance to experience this classic, which is the best thing about Kiwami's existence.
+review link: https://www.destructoid.com/review-yakuza-kiwami-455891.phtml
+
