@@ -29,9 +29,7 @@ To use the Phi3.5 model, you need to have Ollama installed and running in the ba
 
 2. Once installed, open a separate terminal window and run the following command to start Ollama:
 
-    ```bash
     ollama start
-    ```
 
 3. Leave this terminal window running in the background to allow the sentiment analysis code to access the model. **IMPORTANT**: Without having Ollama running, it will not process the reviews and will be stuck in a loop.
 
