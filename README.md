@@ -1,4 +1,4 @@
-# Review Sentiment Analyzer with Ollama
+# Review Opinion Analyzer with Ollama
 
 This project is designed to analyze user reviews for products and generate sentiment analysis results using the Phi3.5 model from Ollama. The reviews are scraped from an eCommerce website as part of a previous web scraping project (Project 2). This project processes those reviews, assigns sentiment labels (positive, neutral, negative), and generates a bar graph visualizing the sentiment distribution.
 
@@ -49,7 +49,7 @@ This project uses Conda to manage dependencies. You can create a new Conda envir
 
 This will install all the necessary dependencies to run the project.
 
-## Running the Sentiment Analysis
+## Running the Opinion Analysis
 
 1. **Ensure Ollama is running**: Make sure that Ollama is running in a separate terminal window by executing:
 
@@ -59,23 +59,23 @@ This will install all the necessary dependencies to run the project.
 
 2. **Activate the Conda Environment**: In the terminal, activate the Conda environment where all dependencies are installed:
 
-    conda activate review-sentiment-analyzer
+    conda activate <whatever you name the env>
 
-3. **Run the Sentiment Analysis**: Once the environment is activated and Ollama is running, execute the main script (`reviewAnalyzer.py`) to process the reviews and generate the sentiment labels:
+3. **Run the Opinion Analysis**: Once the environment is activated and Ollama is running, execute the main script (`reviewAnalyzer.py`) to process the reviews and generate the opinion labels:
 
     python reviewAnalyzer.py
 
 This will:
 
 - Process each review file in the `reviews/` directory.
-- Run sentiment analysis using the Phi3.5 model from Ollama.
-- Assign sentiment labels (positive, neutral, negative) to each review.
-- Save the sentiment-labeled reviews in the `reviews/` folder.
+- Run opinion analysis using the Phi3.5 model from Ollama.
+- Assign opinion labels (positive, neutral, negative) to each review.
+- Save the opinion-labeled reviews in the `reviews/` folder.
 - Generate a bar graph visualizing the sentiment distribution (positive, neutral, negative) and save it as `sentiment_distribution.png` in the project directory.
 
 ## Running Tests
 
-To ensure that your sentiment analysis code works correctly, you can run tests using `pytest`.
+To ensure that your opinion analysis code works correctly, you can run tests using `pytest`.
 
 1. **Run pytest on test functions**: To run the tests in the `test_funcs.py` file, execute the following command in the terminal:
 
@@ -91,12 +91,12 @@ This will run all the tests defined in `test_funcs.py` and show you the results.
 
 The output of running `reviewAnalyzer.py` includes:
 
-1. **Sentiment-Labeled Reviews**: Each review in the `reviews/` folder will have sentiment labels (positive, neutral, negative) appended to the text file. For example, a review file might look like:
+1. **Opinion-Labeled Reviews**: Each review in the `reviews/` folder will have sentiment labels (positive, neutral, negative) appended to the text file. For example, a review file might look like:
 
     Review Text...
     Sentiment: Positive
 
-2. **Bar Graph**: A bar graph showing the sentiment distribution (positive, neutral, negative) will be generated and saved as `sentiment_distribution.png` in the project directory.
+2. **Bar Graph**: A bar graph showing the sentiment distribution (positive, neutral, negative) will be generated and saved as `analysis_graph_xyz.png` in the project directory.
 
 ## Example Folder Structure
 
@@ -114,4 +114,4 @@ These are the main ones, all of them are in the `final.yaml`.
 To install these dependencies, create and activate the Conda environment using the `final.yaml` file:
 
 conda env create -f final.yaml
-conda activate review-sentiment-analyzer
+conda activate <whatever you name the env>
