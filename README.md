@@ -132,10 +132,3 @@ To install these dependencies, create and activate the Conda environment using t
 ```bash
 conda env create -f final.yaml
 conda activate review-sentiment-analyzer
-
-Troubleshooting
-Ollama not running: If Ollama is not running or unreachable, make sure to run ollama start in a separate terminal window. If you encounter issues, check the Ollama documentation for troubleshooting steps.
-
-Missing Dependencies: If you receive errors related to missing dependencies, ensure you have activated the Conda environment and created it using the final.yaml file.
-
-Test Failures: If any tests fail when running pytest, review the error messages to identify the issue. Ensure that all functions are implemented correctly and that the necessary dependencies are installed.
