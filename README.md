@@ -98,8 +98,9 @@ The output of running `reviewAnalyzer.py` includes:
 
 2. **Bar Graph**: A bar graph showing the sentiment distribution (positive, neutral, negative) will be generated and saved as `analysis_graph_xyz.png` in the project directory.
 
-Example: 
+
 ![analysis_graph_20241203_191246](https://github.com/user-attachments/assets/b9bc5bb8-bf34-4e33-9761-e2737200fac8)
+
 
 
 ## Example Folder Structure
