@@ -50,7 +50,7 @@ This project uses Conda to manage dependencies. You can create a new Conda envir
 3. After the environment is created, activate it using:
 
     ```bash
-    conda activate review-sentiment-analyzer
+    conda activate <whatever you name the env>
     ```
 
 This will install all the necessary dependencies to run the project.
@@ -63,11 +63,11 @@ This will install all the necessary dependencies to run the project.
     ollama start
     ```
 
+    you can also use ollama --version to see if it is active and on the latest version
+
 2. **Activate the Conda Environment**: In the terminal, activate the Conda environment where all dependencies are installed:
 
-    ```bash
     conda activate review-sentiment-analyzer
-    ```
 
 3. **Run the Sentiment Analysis**: Once the environment is activated and Ollama is running, execute the main script (`reviewAnalyzer.py`) to process the reviews and generate the sentiment labels:
 
