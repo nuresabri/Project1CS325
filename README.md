@@ -41,15 +41,11 @@ This project uses Conda to manage dependencies. You can create a new Conda envir
 
 2. Run the following command to create the environment:
 
-    ```bash
     conda env create -f final.yaml
-    ```
 
 3. After the environment is created, activate it using:
 
-    ```bash
     conda activate <whatever you name the env>
-    ```
 
 This will install all the necessary dependencies to run the project.
 
@@ -57,9 +53,7 @@ This will install all the necessary dependencies to run the project.
 
 1. **Ensure Ollama is running**: Make sure that Ollama is running in a separate terminal window by executing:
 
-    ```bash
     ollama start
-    ```
 
     you can also use ollama --version to see if it is active and on the latest version
 
@@ -69,9 +63,7 @@ This will install all the necessary dependencies to run the project.
 
 3. **Run the Sentiment Analysis**: Once the environment is activated and Ollama is running, execute the main script (`reviewAnalyzer.py`) to process the reviews and generate the sentiment labels:
 
-    ```bash
     python reviewAnalyzer.py
-    ```
 
 This will:
 
@@ -87,15 +79,11 @@ To ensure that your sentiment analysis code works correctly, you can run tests u
 
 1. **Run pytest on test functions**: To run the tests in the `test_funcs.py` file, execute the following command in the terminal:
 
-    ```bash
     pytest test_funcs.py
-    ```
 
 2. **Run pytest with output displayed**: You can also run pytest with the `-s` option to display the output directly in the terminal:
 
-    ```bash
     pytest -s test_funcs.py
-    ```
 
 This will run all the tests defined in `test_funcs.py` and show you the results. Ensure all tests pass before proceeding.
 
@@ -105,10 +93,8 @@ The output of running `reviewAnalyzer.py` includes:
 
 1. **Sentiment-Labeled Reviews**: Each review in the `reviews/` folder will have sentiment labels (positive, neutral, negative) appended to the text file. For example, a review file might look like:
 
-    ```
     Review Text...
     Sentiment: Positive
-    ```
 
 2. **Bar Graph**: A bar graph showing the sentiment distribution (positive, neutral, negative) will be generated and saved as `sentiment_distribution.png` in the project directory.
 
@@ -127,6 +113,5 @@ These are the main ones, all of them are in the `final.yaml`.
 
 To install these dependencies, create and activate the Conda environment using the `final.yaml` file:
 
-```bash
 conda env create -f final.yaml
 conda activate review-sentiment-analyzer
