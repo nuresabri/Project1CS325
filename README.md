@@ -114,9 +114,9 @@ This project requires the following dependencies, which are listed in the `requi
 - **Matplotlib**: For generating the sentiment distribution bar graph.
 - **Requests**: To interact with web scraping code. (really only needed for project 2)
 
-These are the main ones, all of them are in the `final.yaml`.
+These are the main ones, all of them are in the requirements.yaml`.
 
-To install these dependencies, create and activate the Conda environment using the `final.yaml` file:
+To install these dependencies, create and activate the Conda environment using the `requirements.yaml` file:
 
-conda env create -f final.yaml
+conda env create -f requirements.yaml
 conda activate <whatever you name the env>
