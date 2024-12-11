@@ -108,7 +108,7 @@ The output of running `reviewAnalyzer.py` includes:
 
 ## Dependencies
 
-This project requires the following dependencies, which are listed in the `final.yaml` file:
+This project requires the following dependencies, which are listed in the `requirements.yaml` file:
 
 - **Ollama**: To access and run the Phi3.5 model for sentiment analysis.
 - **Matplotlib**: For generating the sentiment distribution bar graph.
